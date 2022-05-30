@@ -8,7 +8,9 @@ In the project directory, run:
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Firebase Config
+
+Contact us @caaleb on telegram or caleb.l@u.nus.edu for the firebaseconfig.js file (not publicly available on github), and replace the dummy /src/config/firebaseconfig.js file.
 
 In the project directory, run:
 
